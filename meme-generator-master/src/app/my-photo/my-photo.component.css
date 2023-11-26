@@ -1,0 +1,31 @@
+/* my-photo.component.css */
+.image-container {
+  width: 400px; /* Largeur souhaitée en pixels */
+  height: 400px; /* Hauteur souhaitée en pixels */
+  border: 1px solid #000; /* Ajoute une bordure pour le cadre */
+  overflow: hidden; /* Masque le contenu qui dépasse le cadre */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.image-container img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+}
+
+.editable-text-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%; /* Prend la largeur complète du conteneur parent */
+  height: 100%; /* Prend la hauteur complète du conteneur parent */
+}
+
+#imageList {
+  display:flex;
+  flex-wrap: wrap;
+}

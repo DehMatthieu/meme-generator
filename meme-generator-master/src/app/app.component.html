@@ -1,0 +1,9 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <div class="container">
+    <a class="navbar-brand" routerLink="/">Meme Generator</a>
+
+    <button class="btn btn-light mb-2" id="disconnectButton" onclick="document.cookie = `login=0; 0; path=/`;location.reload();">Se déconnecter</button>
+  </div>
+</nav>
+
+<router-outlet></router-outlet>

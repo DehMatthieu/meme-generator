@@ -6,7 +6,7 @@
 
 
 1. Clonage du projet
-Pour récupérer le repository GitLab du TP, lance git clone https://gitlab.com/llenet/java-angular.git
+Pour récupérer le repository GitLab du TP, lance git clone git@github.com:DehMatthieu/meme-generator.git
 
 
 2. Téléchargement de Java 17

@@ -82,14 +82,20 @@ npm install bootstrap <br>
 ng serve <br>
 
 
-### Fonctionalités :
-Fonctionalité 1: Système de compte avec une inscription(mot de passe et username doivent faire plus de 3 caractères) et une connexion avec un cookie (qui s'update dans la bdd connexion/déconnexion) redirigeant vers la page de connexion si non-valide, bouton de déconnexion.
-Fonctionalité 2 : Importation d'une image sur le site, bouton : "choisir un fichier" (image 400x400 et sont stockées en base 64)
-Fonctionalité 3 : Téléchargement d'une image depuis le site sur l'ordinateur, bouton : Télécharger
-Fonctionalité 7 : Sauvegarder l'image dans la base de données, bouton : Sauvegarder
-Fonctionalité 4 : Ajout de textes de couleurs différentes sur l'image, bouton : ajouter du texte (sélectionner la couleur avant d'apputer sur le bouton)
-Fonctionalité 6 : Onglet historique de tout les memes sauvegardés sur le site (téléchargemet possible), bouton : Voir les memes de la communauté
-Fonctionalité 7 : Onglet historique des memes sauvegardés par l'utilisateur actuel (téléchargement + suppression possible), bouton : Voir tous mes memes
+### <ins>Fonctionalités</ins> :
+**Fonctionalité 1** : Système de compte avec une inscription(mot de passe et username doivent faire plus de 3 caractères) et une connexion avec un cookie (qui s'update dans la bdd connexion/déconnexion) redirigeant vers la page de connexion si non-valide, bouton de déconnexion.
+
+**Fonctionalité 2** : Importation d'une image sur le site, bouton : "choisir un fichier" (image 400x400 et sont stockées en base 64)
+
+**Fonctionalité 3** : Téléchargement d'une image depuis le site sur l'ordinateur, bouton : Télécharger
+
+**Fonctionalité 7** : Sauvegarder l'image dans la base de données, bouton : Sauvegarder
+
+**Fonctionalité 4** : Ajout de textes de couleurs différentes sur l'image, bouton : ajouter du texte (sélectionner la couleur avant d'apputer sur le bouton)
+
+**Fonctionalité 6** : Onglet historique de tout les memes sauvegardés sur le site (téléchargemet possible), bouton : Voir les memes de la communauté
+
+**Fonctionalité 7** : Onglet historique des memes sauvegardés par l'utilisateur actuel (téléchargement + suppression possible), bouton : Voir tous mes memes
 
 ## Data Structure 
 <br>
